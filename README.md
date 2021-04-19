@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Mobile Dev 📱
 - 🌱 I’m currently learning Flutter 🚀 and Android 🤖
 - 💬 Ask me about Anything, so i'll search in StackOverflow
-- ⚡ Fun fact: i'm always looking for new tecnologies  
+- ⚡ Fun fact: i'm always looking for new technologies  
 
 ## My languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60" style="max-width:100%;"></img>
