@@ -9,4 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petscaramussi&show_icons=true&theme=dracula&border_radius=5px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petscaramussi?exclude_repo=Code-Station_Web&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petscaramussi?exclude_repo=Code-Station_Web)
