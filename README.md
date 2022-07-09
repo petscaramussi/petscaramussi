@@ -16,6 +16,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60" style="max-width:100%;"></img>
 
+https://www.codewars.com/users/PetSon/badges/small
+
 
 
 
