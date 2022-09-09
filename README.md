@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Mobile Dev 📱 and JavaScript 🟨
-- 🌱 I’m currently learning Flutter 🚀 and Android 🤖
+- 🌱 I’m currently learning JavaScript 🟨 and your frameworks 🌌
 - 💬 Ask me about Anything, so i'll search in StackOverflow
 - ⚡ Fun fact: i'm always looking for new technologies  
 
