@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript 🟨 and your frameworks 🌌
+- 🌱 I’m currently learning JavaScript 🟨 and yours frameworks 🌌
 - 💬 Ask me about Anything, so i'll search in StackOverflow
 - ⚡ Fun fact: i'm always looking for new technologies  
 
