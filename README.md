@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning .Net 🟣 and mastering backend abilities 🌌
+- 🌱 I’m currently learning .Net 🟣 and mastering backend skills 🌌
 - 💬 Ask me about Anything, so i'll search in StackOverflow
 - ⚡ Fun fact: i'm always looking for new technologies  
 
